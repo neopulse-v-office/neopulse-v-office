@@ -4,7 +4,7 @@
 
 🌐 Official Website
 
-[neopulse.v.office Official Website](https://sites.google.com/view/neopulse-v-office/)
+https://sites.google.com/view/neopulse-v-office/
 
 ---
 
