@@ -39,3 +39,4 @@ For official information and the latest updates, please visit the links above.
 ---
 
 © neopulse.v.office
+<meta name="google-site-verification" content="SGnD-OMaZreGWO19yNyIfDfOQSxcs9WVy8rA0ipASYc" />
